@@ -1,5 +1,5 @@
-=== Plugin Name ===
-Contributors: (this should be a list of wordpress.org userid's)
+=== Event Listing Integrated with Google Calendar ===
+Contributors: None
 Donate link: frank-mendez.github.io
 Tags: comments, spam
 Requires at least: 3.0.1
@@ -8,7 +8,7 @@ Stable tag: 4.3
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-Here is a short description of the plugin.  This should be no more than 150 characters.  No markup here.
+This plugin makes archive page which will list all events, ordered by event date. Each event should have a title, location (you can add a Google map integration), event date, a link to the external source/site.
 
 == Description ==
 
